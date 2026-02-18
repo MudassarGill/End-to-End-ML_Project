@@ -1,0 +1,8 @@
+Here we cover all the section about our project
+we make end to end ml pipeline using mlops
+we use mlflow for tracking and model registry
+we use dvc for data versioning
+we use fastapi for model serving
+we use docker for containerization
+we use github actions for ci/cd
+we use aws for deployment
